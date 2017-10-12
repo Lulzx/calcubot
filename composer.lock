@@ -66,6 +66,7 @@
             "require": {
                 "guzzlehttp/promises": "~1.0",
                 "guzzlehttp/psr7": "~1.1",
+                "ext-imagick": "*"
                 "php": ">=5.5.0"
             },
             "require-dev": {
